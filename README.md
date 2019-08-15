@@ -19,7 +19,7 @@ sudo apt install ansible git
 And clone this repo
 
 ```
-git clone https://github.com/fazlearefin/ubuntu-dev-machine-setup.git
+git clone https://github.com/ptlawrence/ubuntu-dev-machine-setup.git
 cd ubuntu-dev-machine-setup
 ```
 

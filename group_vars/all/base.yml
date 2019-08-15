@@ -44,8 +44,6 @@ base_download_tools:
   - youtube-dl
 
 base_developer_tools:
-  - android-tools-adb
-  - android-tools-fastboot
   - ansible
   - ansible-lint
   - awscli
@@ -53,11 +51,8 @@ base_developer_tools:
   - clusterssh
   - colordiff
   - curl
-  - default-jre-headless
   - dos2unix
   - expect
-  - filezilla
-  - g++
   - gedit-plugins
   - git
   - git-extras
@@ -81,8 +76,6 @@ base_developer_tools:
   - powerline
   - pry
   - pssh
-  #- puppet
-  #- puppet-lint
   - pv
   - pylint
   - pylint3
@@ -105,7 +98,6 @@ base_developer_tools:
   - socat
   - sshfs
   - sshpass
-  - sslscan
   - tilix
   - tmux
   - tree
